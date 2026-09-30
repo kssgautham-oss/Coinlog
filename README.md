@@ -353,5 +353,5 @@ CoinLog stores its data as JSON rather than in a database, so there are no forma
 
 ## Author
 
-**Gautham**, VIT Bhopal
+**KONDURU SHAKTHIDHAR SRIVATSA GAUTHAM**, VIT Bhopal
 Built for the Python Essentials course on VITyarthi.
